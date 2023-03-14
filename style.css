@@ -1,0 +1,14 @@
+body{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.container{
+  border-style: solid;
+  padding: 2rem;
+  border-radius: 2%;
+}
+button{
+  margin: 3px;
+}
